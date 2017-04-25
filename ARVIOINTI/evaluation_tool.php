@@ -21,7 +21,7 @@
 
           $studentid = $_POST['"$student"'];
    
-          echo "<p>$studentid</p>";
+          echo $studentid;
           ?>
       
       <header>

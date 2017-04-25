@@ -58,8 +58,8 @@ while ($row = mysqli_fetch_assoc($result)) {
   $result2 = mysqli_query($connection, $query);
   while ($row2 = mysqli_fetch_assoc($result2)) //Loop used to fetch students from the thesis table based on primary supervision and displayed on the menu
   {
-    $_SESSION['student_id'] = $row2['Id'];
-    $student = $_SESSION['student_id'];
+    $student = $row2['Id'];
+    
     echo "<form method ='get' action = '../ARVIOINTI/evaluation_tool.php>";
     echo "<div class='tunnus'>";
     echo "<p class='one'>" .$row2['Id']. " " .$row2['Name'].  " <a href='../ARVIOINTI/evaluation_tool.php'><button class='button1' name='".$row2['Id']."' type='submit' form='form1' value='".$student."'>arvioi</button></a> <button class='button1'  type='submit' form='form1' value='Submit'>View Thesis</button> </p>";
@@ -76,8 +76,7 @@ while ($row = mysqli_fetch_assoc($result2)) {
   $result2 = mysqli_query($connection, $query);
   while ($row2 = mysqli_fetch_assoc($result2)) //Loop used to fetch students from the thesis table based on secondary supervision and displayed on the menu
   {
-    $_SESSION['student_id'] = $row2['Id'];
-    $student = $_SESSION['student_id'];
+   $student = $row2['Id'];
     echo "<form method ='post' action = '../ARVIOINTI/evaluation_tool.php>";
     echo "<div class='tunnus'>";
     echo "<p class='one'>" .$row2['Id']. " " .$row2['Name'].  " <a href='../ARVIOINTI/evaluation_tool.php'><button class='button1' name='".$row2['Id']."' type='submit' form='form1' value='".$student."'>arvioi</button></a> <button class='button1'  type='submit' form='form1' value='Submit'>View Thesis</button> </p>";
