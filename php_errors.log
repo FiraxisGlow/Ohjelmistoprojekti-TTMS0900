@@ -1,0 +1,285 @@
+[12-Apr-2017 07:40:49 UTC] PHP Warning:  include(Login.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:40:49 UTC] PHP Stack trace:
+[12-Apr-2017 07:40:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:40:49 UTC] PHP Warning:  include(): Failed opening 'Login.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:40:49 UTC] PHP Stack trace:
+[12-Apr-2017 07:40:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:41:21 UTC] PHP Warning:  include(Login.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:41:21 UTC] PHP Stack trace:
+[12-Apr-2017 07:41:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:41:21 UTC] PHP Warning:  include(): Failed opening 'Login.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:41:21 UTC] PHP Stack trace:
+[12-Apr-2017 07:41:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:41:50 UTC] PHP Warning:  include(Login.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:41:50 UTC] PHP Stack trace:
+[12-Apr-2017 07:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:41:50 UTC] PHP Warning:  include(): Failed opening 'Login.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:41:50 UTC] PHP Stack trace:
+[12-Apr-2017 07:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:41:53 UTC] PHP Warning:  include(Login.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:41:53 UTC] PHP Stack trace:
+[12-Apr-2017 07:41:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:41:53 UTC] PHP Warning:  include(): Failed opening 'Login.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:41:53 UTC] PHP Stack trace:
+[12-Apr-2017 07:41:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:42:29 UTC] PHP Warning:  include(Login.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:42:29 UTC] PHP Stack trace:
+[12-Apr-2017 07:42:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 07:42:29 UTC] PHP Warning:  include(): Failed opening 'Login.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/login/index.php on line 11
+[12-Apr-2017 07:42:29 UTC] PHP Stack trace:
+[12-Apr-2017 07:42:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/login/index.php:0
+[12-Apr-2017 10:47:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/login/index.php on line 92
+[18-Apr-2017 07:27:10 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 82
+[18-Apr-2017 07:27:11 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 82
+[18-Apr-2017 07:30:23 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 82
+[18-Apr-2017 07:30:23 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 82
+[18-Apr-2017 08:26:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 97
+[19-Apr-2017 07:45:34 UTC] PHP Parse error:  syntax error, unexpected 'tunnus' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 40
+[19-Apr-2017 07:49:13 UTC] PHP Parse error:  syntax error, unexpected 'tunnus' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 40
+[19-Apr-2017 07:51:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 39
+[19-Apr-2017 07:51:04 UTC] PHP Stack trace:
+[19-Apr-2017 07:51:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:51:04 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:39
+[19-Apr-2017 07:51:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 39
+[19-Apr-2017 07:51:12 UTC] PHP Stack trace:
+[19-Apr-2017 07:51:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:51:12 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:39
+[19-Apr-2017 07:51:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 39
+[19-Apr-2017 07:51:34 UTC] PHP Stack trace:
+[19-Apr-2017 07:51:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:51:34 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:39
+[19-Apr-2017 07:53:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 44
+[19-Apr-2017 07:53:52 UTC] PHP Stack trace:
+[19-Apr-2017 07:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:53:52 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:44
+[19-Apr-2017 07:53:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 45
+[19-Apr-2017 07:53:52 UTC] PHP Stack trace:
+[19-Apr-2017 07:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:53:52 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:45
+[19-Apr-2017 07:54:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 47
+[19-Apr-2017 07:54:56 UTC] PHP Stack trace:
+[19-Apr-2017 07:54:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:54:56 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:47
+[19-Apr-2017 07:54:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 48
+[19-Apr-2017 07:54:56 UTC] PHP Stack trace:
+[19-Apr-2017 07:54:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:54:56 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:48
+[19-Apr-2017 07:55:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 47
+[19-Apr-2017 07:55:44 UTC] PHP Stack trace:
+[19-Apr-2017 07:55:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:55:44 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:47
+[19-Apr-2017 07:55:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 48
+[19-Apr-2017 07:55:44 UTC] PHP Stack trace:
+[19-Apr-2017 07:55:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:55:44 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:48
+[19-Apr-2017 07:55:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:55:48 UTC] PHP Stack trace:
+[19-Apr-2017 07:55:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:55:48 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:56:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:56:08 UTC] PHP Stack trace:
+[19-Apr-2017 07:56:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:56:08 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:56:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:56:12 UTC] PHP Stack trace:
+[19-Apr-2017 07:56:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:56:12 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:56:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:56:40 UTC] PHP Stack trace:
+[19-Apr-2017 07:56:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:56:40 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:56:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:56:40 UTC] PHP Stack trace:
+[19-Apr-2017 07:56:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:56:40 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:56:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:56:56 UTC] PHP Stack trace:
+[19-Apr-2017 07:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:56:56 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:57:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:57:51 UTC] PHP Stack trace:
+[19-Apr-2017 07:57:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:57:51 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:58:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:58:50 UTC] PHP Stack trace:
+[19-Apr-2017 07:58:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:58:50 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:59:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:59:23 UTC] PHP Stack trace:
+[19-Apr-2017 07:59:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:59:23 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 07:59:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 49
+[19-Apr-2017 07:59:51 UTC] PHP Stack trace:
+[19-Apr-2017 07:59:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 07:59:51 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:49
+[19-Apr-2017 08:04:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 51
+[19-Apr-2017 09:44:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 81
+[19-Apr-2017 09:45:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 82
+[19-Apr-2017 09:45:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 82
+[19-Apr-2017 09:45:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 82
+[19-Apr-2017 09:45:30 UTC] PHP Warning:  require_once(rpm-chat-conf.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:45:30 UTC] PHP Stack trace:
+[19-Apr-2017 09:45:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:45:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'rpm-chat-conf.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:45:30 UTC] PHP Stack trace:
+[19-Apr-2017 09:45:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:45:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 79
+[19-Apr-2017 09:46:11 UTC] PHP Warning:  require_once(rpm-chat-conf.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:11 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:46:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'rpm-chat-conf.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:11 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:46:12 UTC] PHP Warning:  require_once(rpm-chat-conf.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:12 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:46:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'rpm-chat-conf.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:12 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:46:31 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 79
+[19-Apr-2017 09:46:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 79
+[19-Apr-2017 09:46:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 79
+[19-Apr-2017 09:46:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 79
+[19-Apr-2017 09:46:52 UTC] PHP Warning:  require_once(rpm-chat-conf.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:52 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:46:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'rpm-chat-conf.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:52 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:46:53 UTC] PHP Warning:  require_once(rpm-chat-conf.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:53 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[19-Apr-2017 09:46:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'rpm-chat-conf.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php on line 3
+[19-Apr-2017 09:46:53 UTC] PHP Stack trace:
+[19-Apr-2017 09:46:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/OPINNÄYTEPOHJA/teacher_menu.php:0
+[21-Apr-2017 07:10:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:10:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:11:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/menus/teacher_menu.php on line 27
+[21-Apr-2017 07:12:19 UTC] PHP Warning:  include(Logout.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:12:19 UTC] PHP Stack trace:
+[21-Apr-2017 07:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:12:19 UTC] PHP Warning:  include(): Failed opening 'Logout.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:12:19 UTC] PHP Stack trace:
+[21-Apr-2017 07:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:12:19 UTC] PHP Warning:  include(Logout.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:12:19 UTC] PHP Stack trace:
+[21-Apr-2017 07:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:12:19 UTC] PHP Warning:  include(): Failed opening 'Logout.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:12:19 UTC] PHP Stack trace:
+[21-Apr-2017 07:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:12:38 UTC] PHP Warning:  include(Logout.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:12:38 UTC] PHP Stack trace:
+[21-Apr-2017 07:12:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:12:38 UTC] PHP Warning:  include(): Failed opening 'Logout.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:12:38 UTC] PHP Stack trace:
+[21-Apr-2017 07:12:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:15:38 UTC] PHP Warning:  include(Logout.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:15:38 UTC] PHP Stack trace:
+[21-Apr-2017 07:15:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:15:38 UTC] PHP Warning:  include(): Failed opening 'Logout.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:15:38 UTC] PHP Stack trace:
+[21-Apr-2017 07:15:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:16:26 UTC] PHP Warning:  include(Logout.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:16:26 UTC] PHP Stack trace:
+[21-Apr-2017 07:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:16:26 UTC] PHP Warning:  include(): Failed opening 'Logout.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:16:26 UTC] PHP Stack trace:
+[21-Apr-2017 07:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:18:37 UTC] PHP Warning:  include(Logout.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:18:37 UTC] PHP Stack trace:
+[21-Apr-2017 07:18:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:18:37 UTC] PHP Warning:  include(): Failed opening 'Logout.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:18:37 UTC] PHP Stack trace:
+[21-Apr-2017 07:18:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:19:22 UTC] PHP Warning:  include(Logout.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:19:22 UTC] PHP Stack trace:
+[21-Apr-2017 07:19:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:19:22 UTC] PHP Warning:  include(): Failed opening 'Logout.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/menus/teacher_menu.php on line 26
+[21-Apr-2017 07:19:22 UTC] PHP Stack trace:
+[21-Apr-2017 07:19:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:41:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 53
+[21-Apr-2017 07:41:27 UTC] PHP Stack trace:
+[21-Apr-2017 07:41:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:41:27 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:53
+[21-Apr-2017 07:42:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 53
+[21-Apr-2017 07:42:56 UTC] PHP Stack trace:
+[21-Apr-2017 07:42:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:42:56 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:53
+[21-Apr-2017 07:43:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 53
+[21-Apr-2017 07:43:48 UTC] PHP Stack trace:
+[21-Apr-2017 07:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 07:43:48 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:53
+[21-Apr-2017 08:53:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 53
+[21-Apr-2017 08:53:12 UTC] PHP Stack trace:
+[21-Apr-2017 08:53:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 08:53:12 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:53
+[21-Apr-2017 08:53:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 53
+[21-Apr-2017 08:53:38 UTC] PHP Stack trace:
+[21-Apr-2017 08:53:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 08:53:38 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:53
+[21-Apr-2017 08:54:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 53
+[21-Apr-2017 08:54:44 UTC] PHP Stack trace:
+[21-Apr-2017 08:54:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[21-Apr-2017 08:54:44 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:53
+[22-Apr-2017 10:54:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/menus/teacher_menu.php on line 62
+[22-Apr-2017 10:59:10 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 4
+[22-Apr-2017 10:59:31 UTC] PHP Warning:  include(teacher_menu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 2
+[22-Apr-2017 10:59:31 UTC] PHP Stack trace:
+[22-Apr-2017 10:59:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 10:59:31 UTC] PHP Warning:  include(): Failed opening 'teacher_menu.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 2
+[22-Apr-2017 10:59:31 UTC] PHP Stack trace:
+[22-Apr-2017 10:59:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 11:00:17 UTC] PHP Warning:  include(/../menus/teacher_menu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 2
+[22-Apr-2017 11:00:17 UTC] PHP Stack trace:
+[22-Apr-2017 11:00:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 11:00:17 UTC] PHP Warning:  include(): Failed opening '/../menus/teacher_menu.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 2
+[22-Apr-2017 11:00:17 UTC] PHP Stack trace:
+[22-Apr-2017 11:00:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 11:03:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 59
+[22-Apr-2017 11:03:24 UTC] PHP Stack trace:
+[22-Apr-2017 11:03:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[22-Apr-2017 11:03:24 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:59
+[22-Apr-2017 11:08:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/menus/teacher_menu.php on line 56
+[22-Apr-2017 11:08:57 UTC] PHP Stack trace:
+[22-Apr-2017 11:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/menus/teacher_menu.php:0
+[22-Apr-2017 11:08:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/menus/teacher_menu.php:56
+[22-Apr-2017 11:25:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/menus/teacher_menu.php on line 65
+[22-Apr-2017 11:34:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/menus/teacher_menu.php on line 62
+[22-Apr-2017 11:35:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/menus/teacher_menu.php on line 62
+[22-Apr-2017 12:45:14 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:45:14 UTC] PHP Stack trace:
+[22-Apr-2017 12:45:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:48:11 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:48:11 UTC] PHP Stack trace:
+[22-Apr-2017 12:48:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:50:11 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:50:11 UTC] PHP Stack trace:
+[22-Apr-2017 12:50:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:53:05 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:53:05 UTC] PHP Stack trace:
+[22-Apr-2017 12:53:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:53:34 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:53:34 UTC] PHP Stack trace:
+[22-Apr-2017 12:53:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:53:35 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:53:35 UTC] PHP Stack trace:
+[22-Apr-2017 12:53:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:53:36 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:53:36 UTC] PHP Stack trace:
+[22-Apr-2017 12:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:53:36 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:53:36 UTC] PHP Stack trace:
+[22-Apr-2017 12:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
+[22-Apr-2017 12:53:36 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php on line 3
+[22-Apr-2017 12:53:36 UTC] PHP Stack trace:
+[22-Apr-2017 12:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ARVIOINTI/evaluation_tool.php:0
